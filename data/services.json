@@ -1,0 +1,23 @@
+[
+    {
+        "service": "Lawn Maintenance",
+        "description": "Keep your lawn looking its best with our professional lawn maintenance services, including mowing, edging, fertilization, and weed control."
+    },
+    {
+        "service": "Tree and Shrub Care",
+        "description": "Ensure the health and vitality of your trees and shrubs with our expert care services, including pruning, trimming, and disease management."
+    },
+    {
+        "service": "Hardscape Construction",
+        "description": "Enhance your outdoor living space with our hardscape construction services. From patios and walkways to retaining walls and fire pits, we'll bring your vision to life."
+    },
+    
+    {
+        "service": "Seasonal Cleanup",
+        "description": "Prepare your landscape for the changing seasons with our seasonal cleanup services. From leaf removal to debris clearing, we'll ensure your outdoor space stays tidy year-round."
+    },
+    {
+        "service": "Snow Removal",
+        "description": "Keep your property safe and accessible during the winter months with our snow removal services. Our team will clear snow and ice from driveways, walkways, and parking areas to ensure your safety and convenience."
+    }
+]
